@@ -1,0 +1,18 @@
+.lowerHeader {
+    text-align: left;
+    margin-top: 10px;
+    font-size: 40px;
+    color: purple;
+    /* background-color: powderblue */
+}
+
+.headerImage {
+    height: 100px;
+    overflow: auto;
+    /* background-image:url("Assets/AliensEvolution.png"); */
+}
+
+body {
+    background: rgb(230, 230, 245);
+  }
+  
